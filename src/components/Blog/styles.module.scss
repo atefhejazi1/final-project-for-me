@@ -1,0 +1,24 @@
+.blog {
+    padding: 60px 0;
+    background-color: #f7f7f9;
+}
+.blogItem {
+    margin: 20px auto;
+    background-color: #fff;
+}
+
+.blogItem img {
+    width: 100%;
+}
+
+.blogItem h2 {
+    font-size: 20px;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    padding: 40px 0;
+    transition: all 0.3s linear;
+    &:hover {
+        color: #1890ff;
+    }
+}

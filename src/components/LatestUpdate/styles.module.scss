@@ -1,0 +1,29 @@
+.latestUpdate {
+    background-color: #1890ff;
+    padding: 80px 60px;
+    margin-bottom: 80px;
+}
+
+.latestUpdate h2 {
+    color: #fff;
+    font-size: 30px;
+    margin-left: 40px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.latestUpdate form {
+    position: relative;
+}
+.latestUpdate input {
+    padding: 20px 0;
+}
+.latestUpdate input::placeholder {
+    padding-left: 10px;
+}
+
+.latestUpdate button {
+    position: absolute;
+    right: 5%;
+    top: 25%;
+}

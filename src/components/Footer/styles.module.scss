@@ -1,0 +1,79 @@
+.footer {
+    background-color: #001529;
+    padding: 80px 0;
+}
+
+.footerHeading {
+    color: #fff;
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.footer ul {
+    margin: 0;
+    padding: 0;
+}
+
+.footer ul li {
+    list-style: none;
+}
+
+.contactList li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+
+.contactList li i {
+    text-align: left;
+    padding-right: 30px;
+    color: #1890ff;
+    font-size: 20px;
+}
+.contactList li h4 {
+    text-align: left;
+    color: #d6deeb;
+}
+
+.socialNetwork {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.socialNetwork li i {
+    font-size: 15px;
+    background-color: #121b2b;
+    margin-right: 10px;
+    padding: 15px;
+    transition: all 0.4s linear;
+    &:hover {
+        background-color: #1890ff;
+        color: #fff;
+        padding: 16px;
+    }
+}
+
+.companyList li {
+    margin-bottom: 13px;
+}
+.companyList li a {
+    color: #d6deeb;
+    font-size: 15px;
+    transition: all 0.4s linear;
+    &:hover {
+        color: #1890ff;
+    }
+}
+.servicesList li {
+    margin-bottom: 13px;
+}
+.servicesList li a {
+    color: #d6deeb;
+    font-size: 15px;
+    transition: all 0.4s linear;
+    &:hover {
+        color: #1890ff;
+    }
+}

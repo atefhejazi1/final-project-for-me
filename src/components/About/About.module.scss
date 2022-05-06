@@ -1,0 +1,23 @@
+.about {
+    padding: 100px 0;
+}
+.about h2 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    span {
+        background-color: #1890ff;
+        color: #fff;
+        padding: 5px;
+    }
+}
+.btnInfo {
+    margin-top: 20px;
+    button{
+        margin-right:  10px;
+    }
+}
+.aboutImage {
+    width: 90%;
+    // height: 60%;
+}

@@ -1,0 +1,22 @@
+.noticeItem {
+    border-bottom: 4px solid #1890ff;
+    margin: 0 20px;
+    padding: 50px 20px;
+}
+.noticeItem h2 {
+    font-size: 25px;
+    font-weight: bold;
+}
+.noticeItemActive {
+    background-color: #1890ff;
+    margin: 0 20px;
+    padding: 50px 20px;
+    color: #fff;
+    border-bottom: 4px solid #000;
+}
+
+.noticeItemActive h2 {
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+}

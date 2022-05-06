@@ -1,0 +1,45 @@
+.services {
+    background-color: #f7f7f9;
+    padding: 80px 0;
+}
+
+.servicesHeading {
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.servicesItem {
+    margin: 0 auto;
+    padding: 60px 10px;
+    background-color: #fff;
+    text-align: center;
+}
+
+.servicesItem i {
+    font-size: 80px;
+    margin-bottom: 20px;
+    background-color: #f7f7f9;
+    padding: 30px;
+    transition: 0.5s;
+    border-radius: 15px;
+    &:hover {
+        background-color: #1890ff;
+    }
+}
+
+.servicesItem h2 {
+    margin-bottom: 15px;
+    font-size: 25px;
+}
+.servicesItem p {
+    width: 60%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    font-size: 17px;
+    color: #8F9BA6;
+}
+.servicesItem a {
+    font-size: 17px;
+}
